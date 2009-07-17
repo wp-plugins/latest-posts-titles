@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Latest Posts Titles
-Plugin URI: http://creativeslab.net
-Description: Shows Latest posts Titles from a given category.
+Plugin Name: List Latest Posts Titles
+Plugin URI: http://creativeslab.net/wordpress-plugin-latest-posts-titles
+Description: Lists Latest posts Titles from a given category.
 Version: 1.0
 Author: Sachethan G Reddy
 Author URI: http://creativeslab.net

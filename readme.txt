@@ -1,14 +1,14 @@
 === Plugin Name ===
 Contributors: Sachethan G Reddy
-Tags: latest posts
+Tags: latest posts, list latest posts, list posts titles, list latest post titles
 Requires at least: 2.6
 Tested up to: 2.8
 
-Latest Posts with Title plugin allows to fetch all latest posts in a given category without any further work.
+List Latest Posts with Title plugin allows to fetch all latest posts in a given category without any further work.
 
 == Description ==
 
-There are number of solutions to show latest posts of your blog, but this plugin uses less number of MySQL queries to fetch latest posts titles from given category.
+There are number of solutions to list latest posts of your blog, but this plugin uses less number of MySQL queries to fetch latest posts titles from given category.
 This plugin is successfully used at http://searchandhra.com
 == Installation ==
 
